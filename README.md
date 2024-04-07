@@ -9,7 +9,7 @@ MakeWindow({
     Title = "Sistema de Key",
     Description = "Tu precisa da key irmao",
     KeyLink = "https://tubaroscripts.blogspot.com/2024/03/blog-post.html",
-    Keys = {"Tubaro142"},
+    Keys = {"Em Breve"},
     Notifi = {
       Notifications = false,
       CorrectKey = "Carregando o Script...",
