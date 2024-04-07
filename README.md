@@ -1,20 +1,20 @@
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/REDzHUB/LibraryV2/main/redzLib")))()
 MakeWindow({
   Hub = {
-    Title = "Waffles Hub | Script Hub",
-    Animation = "Por Waffles Exility"
+    Title = "Waffles Hub | Discord Sendo feito",
+    Animation = "Por BaconExility"
   },
   Key = {
     KeySystem = true,
-    Title = "Key System",
-    Description = "",
+    Title = "Sistema de Key",
+    Description = "Tu precisa da key irmao",
     KeyLink = "https://tubaroscripts.blogspot.com/2024/03/blog-post.html",
     Keys = {"Tubaro142"},
     Notifi = {
       Notifications = false,
-      CorrectKey = "Running the Script...",
-      Incorrectkey = "The key is incorrect",
-      CopyKeyLink = "Copied to Clipboard"
+      CorrectKey = "Carregando o Script...",
+      Incorrectkey = "Tua key ta incorreta..",
+      CopyKeyLink = "Copiado o link"
     }
   }
 })
@@ -37,7 +37,7 @@ MakeNotifi({
 })
 
 AddButton(Main, {
-  Name = "Redz Hub(Fecha a interface talvez)",
+  Name = "Redz Hub(Bugado)",
   Callback = function()        loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
 
     
