@@ -106,6 +106,8 @@ AddButton(Main, {
   end
 })
 
+local Main = MakeTab({Name = "Murder Misery 2"})
+
 AddButton(Main, {
   Name = "Folder Hub",
   Callback = function()                           loadstring(game:HttpGet("https://raw.githubusercontent.com/Gregory909/FolderGui-FolderHub/main/loader.lua", true))()
